@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+nav, ul{
+    text-decoration: none;
+    display: inline-flex;
+}
+
+li{
+    text-decoration: none;
+    padding: 50px;
+    list-style: none;
+}
