@@ -6,9 +6,17 @@ h2{
     text-align: center;
 }
 
-nav, ul{
-    text-decoration: none;
+h3{
+    text-align: center;
+}
+
+ul{
+    border-top: 5px solid lightblue;
+    border-bottom: 5px solid lightblue;
+    padding: 0;
+    background: lightgray;
     display: inline-flex;
+    width: 100%;
 }
 
 li{
