@@ -24,3 +24,12 @@ li{
     padding: 50px;
     list-style: none;
 }
+
+.home-grid{
+    display: inline-flex;
+    padding-inline: 20px;
+}
+
+hr{
+    margin: 20px;
+}
